@@ -5,3 +5,4 @@ transformers
 einops
 accelerate
 xformers
+flask
